@@ -1,6 +1,7 @@
 # 👋 Salut, moi c’est Lucas
 
 🎯 Développeur web 
+
 💻 Je crée des projets tech, SaaS et automatisation  
 📍 France  
 
