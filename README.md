@@ -45,12 +45,6 @@ Tech : Python, ML, Next.js
 
 ---
 
-## 📈 GitHub Stats
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas04022002&show_icons=true&theme=dark)
-
----
-
 ## 📫 Me contacter
 
 📧 Email : lucasguilhot7@gmail.com  
