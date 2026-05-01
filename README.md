@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Lucas
 
-🎯 Développeur web en formation (Wild Code School)  
+🎯 Développeur web 
 💻 Je crée des projets tech, SaaS et automatisation  
 📍 France  
 
