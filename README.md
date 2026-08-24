@@ -28,9 +28,8 @@ Je travaille aussi sur des projets plus avancés comme :
 
 ## 🧠 Projets en cours
 
-🔹 **RushPlay (SaaS)**  
-> Radar d’opportunités de paris sportifs basé sur des modèles de données  
-Tech : Python, ML, Next.js  
+🔹 **SkinMatch**  
+> Scan pour marque de cosmétique diagnostique IA  
 
 🔹 **Bot Trading XAUUSD**  
 > Stratégies trend following automatisées sur MT5  
