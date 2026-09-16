@@ -1,4 +1,4 @@
-<img src="assets/banniere.jpg" alt="Lucas Guilhot — développeur full-stack, produits web, données et automatisation. Toulouse / Remote." width="100%">
+<img src="https://raw.githubusercontent.com/lucas04022002/lucas04022002/main/assets/banniere.jpg" alt="Lucas Guilhot — développeur full-stack, produits web, données et automatisation. Toulouse / Remote." width="100%">
 
 Je construis des produits web complets : interface, API, base de données et mise
 en production. Une préférence pour ceux qui traitent de la donnée ou automatisent
@@ -7,7 +7,7 @@ quelque chose — là où la règle métier est plus difficile que l'écran.
 Les cinq produits ci-dessous sont **en ligne**. Les chiffres sont mesurés, pas
 estimés : comptes de tests exécutés, mesures de backtest, calculs exacts.
 
-<img src="assets/vitrine.jpg" alt="Les cinq produits en ligne : RushPlay, ApplyBot, Le Local, selv. et Vault Rush." width="100%">
+<img src="https://raw.githubusercontent.com/lucas04022002/lucas04022002/main/assets/vitrine.jpg" alt="Les cinq produits en ligne : RushPlay, ApplyBot, Le Local, selv. et Vault Rush." width="100%">
 
 <p align="center">
   <a href="https://rushplay.fr">RushPlay</a> ·
